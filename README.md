@@ -67,7 +67,7 @@ termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg
 git clone https://github.com/zeeoneofc/Alphabot-Md.git
-cd Alphabot-Md
+cd Dikabot-Md
 npm install
 node main
 ```
@@ -95,15 +95,11 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
+- [Allpayment](https://e.top4top.io/p_2208dqp3y0.png)
 
 # Official Group
-- [Alphabot 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Alphabot 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Alphabot 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
+- [DikaBotMD](https://chat.whatsapp.com/LvZbSw6TBr2HuKrp9XZxGt)
+
 
 
 # Thanks to
