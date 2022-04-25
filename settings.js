@@ -18,19 +18,19 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "DikaBot-Md ོ"
-global.ownername= "ᴹᴿ᭄ Dikaa ོ ×፝֟͜×"
-global.myweb ="https://github.com//dika-jb"
-global.youtube = "https://youtube.com/channel/UCEc2cXfVxhloTUU1Np9UPNg"
-global.github = "github.com/dika-jb"
-global.ownernomer = "6281225377760"
-global.ownernomerr = "+6281225377760"
+global.botname = "Zexs-Md ོ"
+global.ownername= "ᴹᴿ᭄ ZexsXDZ ོ ×፝֟͜×"
+global.myweb ="https://github.com/Bilqisrafika"
+global.youtube = "https://youtube.com/channel/UCx0UoO1YgOMGnbyzyO7rL6A"
+global.github = "https://github.com/Bilqisrafika"
+global.ownernomer = "6285334190704"
+global.ownernomerr = "+6285334190704"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6281225377760","6281225377760","6281225377760"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285334190704","6285334190704","6285334190704"] //ganti agar fitur owner bisa di gunakan
 global.packname = 'IniWM' //sticker wm
-global.author = 'Dikaaa' //sticker wm
+global.author = 'XDZ' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
